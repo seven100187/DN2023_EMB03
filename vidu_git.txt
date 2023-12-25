@@ -1,0 +1,5 @@
+[user]
+	name = Nam Phu
+	email = lephunam2001@gmail.com
+hello word !!!
+ajajaa
